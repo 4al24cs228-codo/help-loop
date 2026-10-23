@@ -351,26 +351,25 @@ Explore HelpLoop, a social impact platform that connects people with charitable 
 ## 🔐 1. User Authentication
 
 Access the HelpLoop community through the sign-in interface.
-
-![HelpLoop Login](./assets/helploop-login.png)
+![HelpLoop Login](./assets/HELPLOOP%20CLIPS4.png)
 
 ## 🏠 2. Home & Community Dashboard
 
 Discover community champions, suggested changemakers, social posts, and personalized impact information.
 
-![HelpLoop Dashboard](./assets/helploop-dashboard.png)
+![HelpLoop Dashboard](./assets/HELPLOOP%20CLIPS1.png)
 
 ## 💝 3. Donations & Fundraising
 
 Explore donation categories and campaigns supporting medical assistance, education, food, and essential needs.
 
-![HelpLoop Donations](./assets/helploop-donations.png)
+![HelpLoop Donations](./assets/HELPLOOP%20CLIPS2.png)
 
 ## 💬 4. Community Messaging
 
 Explore conversations and communicate with community members through the messaging interface.
 
-![HelpLoop Messaging](./assets/helploop-messaging.png)
+![HelpLoop Messaging](./assets/HELPLOOP%20CLIPS3.png)
 
 ---
 
