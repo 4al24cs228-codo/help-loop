@@ -342,3 +342,40 @@ A license has not yet been specified. Until one is added to the repository, all 
 </p>
 
 
+---
+
+# 🎬 HelpLoop — Project Showcase
+
+Explore HelpLoop, a social impact platform that connects people with charitable causes, fundraising campaigns, volunteering opportunities, and community initiatives.
+
+## 🔐 1. User Authentication
+
+Access the HelpLoop community through the sign-in interface.
+
+![HelpLoop Login](./assets/helploop-login.png)
+
+## 🏠 2. Home & Community Dashboard
+
+Discover community champions, suggested changemakers, social posts, and personalized impact information.
+
+![HelpLoop Dashboard](./assets/helploop-dashboard.png)
+
+## 💝 3. Donations & Fundraising
+
+Explore donation categories and campaigns supporting medical assistance, education, food, and essential needs.
+
+![HelpLoop Donations](./assets/helploop-donations.png)
+
+## 💬 4. Community Messaging
+
+Explore conversations and communicate with community members through the messaging interface.
+
+![HelpLoop Messaging](./assets/helploop-messaging.png)
+
+---
+
+### 🌱 Our Mission
+
+HelpLoop aims to make social participation more accessible by connecting people with meaningful causes.
+
+**HelpLoop — Real People. Real Help. A Stronger Tomorrow.**
